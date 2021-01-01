@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-01T05:37:18.422Z</updated>
+  <updated>2021-01-01T06:00:50.897Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,31 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>tags</title>
-    <link href="http://example.com/2021/01/01/%E8%88%AA%E7%A9%BA%E6%B5%8B%E8%AF%95%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0/"/>
-    <id>http://example.com/2021/01/01/%E8%88%AA%E7%A9%BA%E6%B5%8B%E8%AF%95%E7%B3%BB%E7%BB%9F%E7%AC%94%E8%AE%B0/</id>
-    <published>2021-01-01T05:31:00.000Z</published>
-    <updated>2021-01-01T05:37:18.422Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="第一章-绪论"><a href="#第一章-绪论" class="headerlink" title="第一章 绪论"></a>第一章 绪论</h1><h2 id="基本概念"><a href="#基本概念" class="headerlink" title="基本概念"></a>基本概念</h2><h3 id="测试："><a href="#测试：" class="headerlink" title="测试："></a><strong>测试</strong>：</h3><p>利用各种装置对物理量进行定性和定量的过程。</p><h3 id="测试系统："><a href="#测试系统：" class="headerlink" title="测试系统："></a><strong>测试系统</strong>：</h3><p>把被测参数自动转换成具有可直接观测的指示值或等效信息的设备。</p><h2 id="测试的作用和地位"><a href="#测试的作用和地位" class="headerlink" title="测试的作用和地位"></a>测试的作用和地位</h2><h3 id="三大作用："><a href="#三大作用：" class="headerlink" title="三大作用："></a><strong>三大作用</strong>：</h3><ol><li>完成（航空航天飞行）过程中各种工作参数的实时监测和控制。</li><li>测量、计算、自动调节和显示装备的运动状态、设备的工作状态等。</li><li>完成科学实验中的测量与分析。</li></ol><h3 id="地位及重要性："><a href="#地位及重要性：" class="headerlink" title="地位及重要性："></a><strong>地位及重要性</strong>：</h3><ol><li>测试技术是现代信息技术的<strong>关键和基础</strong>。</li><li>测试技术涉及的技术领域非常<strong>广泛</strong>。</li><li>测试技术的水平是科技综合发展水平的<strong>标志</strong>。</li><li>测试技术是航空航天事业的保障，对航空航天的发展起着<strong>关键的作用，并占有及其重要的地位</strong>。</li></ol><h2 id="测试技术的内容"><a href="#测试技术的内容" class="headerlink" title="测试技术的内容"></a>测试技术的内容</h2><h3 id="1-测量原理："><a href="#1-测量原理：" class="headerlink" title="1. 测量原理："></a>1. <strong>测量原理</strong>：</h3>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;第一章-绪论&quot;&gt;&lt;a href=&quot;#第一章-绪论&quot; class=&quot;headerlink&quot; title=&quot;第一章 绪论&quot;&gt;&lt;/a&gt;第一章 绪论&lt;/h1&gt;&lt;h2 id=&quot;基本概念&quot;&gt;&lt;a href=&quot;#基本概念&quot; class=&quot;headerlink&quot; title=&quot;基</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="http://example.com/2021/01/01/hello-world/"/>
     <id>http://example.com/2021/01/01/hello-world/</id>
     <published>2021-01-01T03:46:26.160Z</published>
-    <updated>2021-01-01T03:46:26.160Z</updated>
+    <updated>2021-01-01T06:00:50.897Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
